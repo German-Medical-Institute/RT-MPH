@@ -3,6 +3,7 @@
 **Radiotherapy Medical Physics**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github\&logoColor=white)
 
 This repository contains scripts, tools, and utilities developed to support and improve the workflow of the Medical Physics department.
@@ -31,6 +32,7 @@ RT-MPH/
 │   ├── README.md
 │   └── ...
 │
+├── LICENSE
 └── README.md
 ```
 
@@ -38,7 +40,7 @@ Additional tools and scripts can be organized into dedicated folders as the repo
 
 ## RayStation Scripts
 
-The `RayStation Scripts` folder contains Python scripts developed to assist with workflows within RayStation treatment planning system.
+The `RayStation Scripts` folder contains Python scripts developed to assist with workflows within RaySearch's RayStation treatment planning system.
 
 See the [RayStation Scripts](./RayStation%20Scripts/) folder for more information and documentation.
 
@@ -56,4 +58,4 @@ Users are responsible for ensuring that any tool is suitable for its intended ap
 
 ## License
 
-See the `LICENSE` file for licensing information.
+This repository is licensed under the [MIT License](./LICENSE).
