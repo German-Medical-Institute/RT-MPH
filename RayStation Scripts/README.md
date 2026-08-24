@@ -42,12 +42,15 @@ The primary objectives of this project are to:
 ```text
 RT-MPH/
 │
-├── README.md
-├── CouchClipping.py
-├── CouchClippingPTVs.py
-├── SetupBeams.py
+├── RayStation Scripts/
+│   ├── README.md
+│   ├── CouchClipping.py
+│   ├── CouchClippingPTVs.py
+│   ├── SetupBeams.py
+│   └── .gitignore
+│
 ├── LICENSE
-└── .gitignore
+└── README.md
 ```
 
 ---
