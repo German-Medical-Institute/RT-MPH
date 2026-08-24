@@ -1,4 +1,4 @@
-# RT-MPH
+# RayStation Scripts
 
 ## RayStation Treatment Planning Automation
 
